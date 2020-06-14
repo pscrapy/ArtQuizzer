@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>ArtQuizzer</title>
+<script>
+function myFunction() {
+  var x = document.getElementById("Answer");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+} 
+</script>
+</head>
+<body>
+<h1> ArtQuizzer </h1>
+<img src='<TMPL_VAR NAME=IMG>'>
+<p>
+<button onclick="myFunction()">Show Answer</button>
+
+<div style="display:none;" id="Answer">
+  <b>Author:</b> <TMPL_VAR NAME=AUTH> <br>
+  <b>Period:</b> <TMPL_VAR NAME=PERIOD> ( <TMPL_VAR NAME=DATE> )<br>
+  <b>Museum:</b> <TMPL_VAR NAME=PLACE> <br>
+  <b>Title:</b> <TMPL_VAR NAME=TITLE> <br>
+</div>
+</body>
+</html>
