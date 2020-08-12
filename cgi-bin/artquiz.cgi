@@ -5,7 +5,6 @@ use Text::CSV qw( csv );
 
 
 # Read whole file in memory
-#my $aoa = csv (in => "../data/imgdata.csv");    # as array of array
 my $aoh = csv (in => "../data/imgdata.csv",
                headers => "auto", sep_char=> ";");   # as array of hash
 
