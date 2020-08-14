@@ -10,7 +10,5 @@ There are probably better ways to achieve this but it does the job.
 
 #### Examples
 
-<div>
-<img align="left" src="https://raw.githubusercontent.com/pscrapy/ArtQuizzer/master/imgs/answer_hidden.png" width=48%>
-<img align="right" src="https://raw.githubusercontent.com/pscrapy/ArtQuizzer/master/imgs/answer_shown.png" width=48%>
-</div>
+<img align="left" src="https://raw.githubusercontent.com/pscrapy/ArtQuizzer/master/imgs/answer_hidden.png" width="425"> <img align="right" src="https://raw.githubusercontent.com/pscrapy/ArtQuizzer/master/imgs/answer_shown.png" width="425">
+
