@@ -10,6 +10,7 @@ There are probably better ways to achieve this but it does the job.
 
 #### Examples
 
-<img align="left" src="https://raw.githubusercontent.com/pscrapy/ArtQuizzer/master/imgs/answer_hidden.png" width=450>
-
-<img align="right" src="https://raw.githubusercontent.com/pscrapy/ArtQuizzer/master/imgs/answer_shown.png" width=450>
+<div>
+<img align="left" src="https://raw.githubusercontent.com/pscrapy/ArtQuizzer/master/imgs/answer_hidden.png" width=48%>
+<img align="right" src="https://raw.githubusercontent.com/pscrapy/ArtQuizzer/master/imgs/answer_shown.png" width=48%>
+</div>
